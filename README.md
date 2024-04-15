@@ -10,7 +10,7 @@
 ## Algorithm
 <div>
   <img height="140px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinkim301">
-  <img height="140px" src="https://cf.leed.at?id=jinkim301">
+<!--   <img height="140px" src="https://cf.leed.at?id=jinkim301"> -->
 </div>
 
 ## IDE
